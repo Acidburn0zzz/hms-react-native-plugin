@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "react": "16.6.0",
-    "react-native": "0.60.0",
+    "react-native": "0.72.6",
     "@hmscore/react-native-hms-ar": "2.15.0-4-01"
   },
   "devDependencies": {
